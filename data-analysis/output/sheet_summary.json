@@ -1,0 +1,3866 @@
+[
+  {
+    "sheet_name": "Contents",
+    "rows": 122,
+    "cols": 1,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Total Energy Supply (TES) -EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 592.2167427614952
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 374.40585677841466
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 279.23931649652553
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 217.81088598308077
+      },
+      {
+        "entity": "China",
+        "value": 158.88335297588344
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "TES by fuel",
+    "rows": 99,
+    "cols": 15,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "TES per Capita",
+    "rows": 124,
+    "cols": 63,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Iceland",
+        "value": 787.6481884060856
+      },
+      {
+        "entity": "Qatar",
+        "value": 768.4975950190207
+      },
+      {
+        "entity": "Singapore",
+        "value": 649.1911716226884
+      },
+      {
+        "entity": "United Arab Emirates",
+        "value": 496.51150330045544
+      },
+      {
+        "entity": "Kuwait",
+        "value": 382.95144049557183
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "CO2 from Energy",
+    "rows": 123,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 110,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 35491.80171584641
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 24419.585094215065
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 19065.673663713824
+      },
+      {
+        "entity": "China",
+        "value": 11172.8455991745
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 11072.216621631364
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Natural Gas Flaring",
+    "rows": 88,
+    "cols": 54,
+    "header_row_index": 2,
+    "year_count": 50,
+    "first_year": 1975,
+    "last_year": 2024,
+    "entity_row_count": 75,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Trinidad & Tobago"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 158.79116359037042
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 136.06982594005672
+      },
+      {
+        "entity": "Total Middle East",
+        "value": 47.94363273374305
+      },
+      {
+        "entity": "Total Africa",
+        "value": 32.779490608621266
+      },
+      {
+        "entity": "Total CIS",
+        "value": 31.629846997040335
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "CO2 from Flaring",
+    "rows": 88,
+    "cols": 54,
+    "header_row_index": 2,
+    "year_count": 50,
+    "first_year": 1975,
+    "last_year": 2024,
+    "entity_row_count": 75,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Trinidad & Tobago"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 320.69463398711207
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 274.8066204685387
+      },
+      {
+        "entity": "Total Middle East",
+        "value": 96.82696066906747
+      },
+      {
+        "entity": "Total Africa",
+        "value": 66.2014592331715
+      },
+      {
+        "entity": "Total CIS",
+        "value": 63.879638995222685
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "CO2-Process Emissions, Methane",
+    "rows": 125,
+    "cols": 39,
+    "header_row_index": 2,
+    "year_count": 35,
+    "first_year": 1990,
+    "last_year": 2024,
+    "entity_row_count": 112,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 4999.936053838658
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 4106.950212892722
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 2181.4992145613137
+      },
+      {
+        "entity": "China",
+        "value": 1355.7755425192463
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 892.9858409459387
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "CO2e Emissions ",
+    "rows": 112,
+    "cols": 39,
+    "header_row_index": 2,
+    "year_count": 35,
+    "first_year": 1990,
+    "last_year": 2024,
+    "entity_row_count": 100,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 40812.43244649893
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 28801.341957615197
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 21268.722956883237
+      },
+      {
+        "entity": "China",
+        "value": 12533.39091014862
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 12011.09048888374
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "CCUS Capture Capacity",
+    "rows": 40,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 28,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Brazil",
+      "Total S. & Cent. America",
+      "Norway",
+      "Other Europe",
+      "Total Europe",
+      "Russia"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 57.824
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 36.171
+      },
+      {
+        "entity": "Total North America",
+        "value": 28.148
+      },
+      {
+        "entity": "US",
+        "value": 24.136
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 21.653
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Carbon Prices",
+    "rows": 18,
+    "cols": 10,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Oil - Proved reserves",
+    "rows": 103,
+    "cols": 8,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Oil - Proved reserves history",
+    "rows": 104,
+    "cols": 45,
+    "header_row_index": 4,
+    "year_count": 41,
+    "first_year": 1980,
+    "last_year": 2020,
+    "entity_row_count": 90,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Trinidad & Tobago"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "USSR",
+        "value": NaN
+      },
+      {
+        "entity": "Total World",
+        "value": 1732.3661753656183
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 1472.403482093942
+      },
+      {
+        "entity": "OPEC",
+        "value": 1214.669745
+      },
+      {
+        "entity": "Total Middle East",
+        "value": 835.941691
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil Production - barrels",
+    "rows": 90,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 79,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 96889.96880714301
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 64931.69362855822
+      },
+      {
+        "entity": "Non-OPEC",
+        "value": 64091.92190885414
+      },
+      {
+        "entity": "OPEC",
+        "value": 32798.04689828892
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 31958.275178584816
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil Production - tonnes",
+    "rows": 90,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 78,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 4542.6526654354375
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 3106.626065459344
+      },
+      {
+        "entity": "Non-OPEC",
+        "value": 2999.243275860708
+      },
+      {
+        "entity": "OPEC",
+        "value": 1543.409389574731
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1436.0265999760943
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Crude+cond production - barrels",
+    "rows": 87,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 74,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 82788.47113747009
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 59043.15631320576
+      },
+      {
+        "entity": "Non-OPEC",
+        "value": 53932.527084114125
+      },
+      {
+        "entity": "OPEC",
+        "value": 28855.944053355943
+      },
+      {
+        "entity": "Total Middle East",
+        "value": 26119.782900212478
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "NGLs production - barrels",
+    "rows": 86,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 75,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 14101.497669672955
+      },
+      {
+        "entity": "Non-OPEC",
+        "value": 10159.39482473998
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 8212.960354320481
+      },
+      {
+        "entity": "Total North America",
+        "value": 7845.913329205081
+      },
+      {
+        "entity": "US",
+        "value": 6941.401639344263
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Liquids Consumption - barrels",
+    "rows": 123,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 104710.15670790983
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 58025.71386630011
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 46684.44284160956
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 39037.311300176094
+      },
+      {
+        "entity": "Total North America",
+        "value": 24588.42649393996
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil Consumption - barrels",
+    "rows": 123,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 101417.98875886263
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 56657.62680562601
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 44760.361953236585
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 38436.066976577305
+      },
+      {
+        "entity": "Total North America",
+        "value": 23181.507340751712
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil Consumption - Tonnes",
+    "rows": 123,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 110,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 4588.779566863233
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 2592.3314012961555
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1996.448165567076
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 1760.2975201230518
+      },
+      {
+        "entity": "Total North America",
+        "value": 997.8592526023181
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil Consumption - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 199.05150387100002
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 111.81185494027159
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 87.23964893072844
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 75.85253853649192
+      },
+      {
+        "entity": "Total North America",
+        "value": 43.77171349525452
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil - Regional Consumption",
+    "rows": 216,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 195,
+    "sample_entities": [
+      "North America",
+      "Light distillates",
+      "of which: gasoline",
+      "of which: naphtha",
+      "Middle distillates",
+      "of which: diesel/gasoil",
+      "of which: jet/kerosene",
+      "Fuel oil",
+      "Others",
+      "of which: ethane and LPG"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "North America",
+        "value": NaN
+      },
+      {
+        "entity": "Total North America",
+        "value": 23181.507340751712
+      },
+      {
+        "entity": "Total Europe",
+        "value": 14128.090112526537
+      },
+      {
+        "entity": "Light distillates",
+        "value": 9580.65658454332
+      },
+      {
+        "entity": "of which: gasoline",
+        "value": 9360.982085924545
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Spot crude prices",
+    "rows": 63,
+    "cols": 5,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Oil crude prices since 1861",
+    "rows": 174,
+    "cols": 4,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Oil refinery - throughput",
+    "rows": 108,
+    "cols": 49,
+    "header_row_index": 2,
+    "year_count": 45,
+    "first_year": 1980,
+    "last_year": 2024,
+    "entity_row_count": 97,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Curacao",
+      "Ecuador"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 82970.62675464498
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 46655.190043465926
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 36315.43671117905
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 30490.845441033773
+      },
+      {
+        "entity": "Total North America",
+        "value": 18870.707290881677
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil refinery - capacity",
+    "rows": 108,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 97,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Curacao",
+      "Ecuador"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 104523.18375604993
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 60986.803071118404
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 43536.3806849315
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 37689.70742191781
+      },
+      {
+        "entity": "Total North America",
+        "value": 21927.999999999996
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil - Regional refining margins",
+    "rows": 35,
+    "cols": 4,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Oil trade movements",
+    "rows": 36,
+    "cols": 49,
+    "header_row_index": 2,
+    "year_count": 45,
+    "first_year": 1980,
+    "last_year": 2024,
+    "entity_row_count": 33,
+    "sample_entities": [
+      "Imports",
+      "US",
+      "Europe",
+      "China",
+      "India",
+      "Japan",
+      "Rest of World",
+      "Total World",
+      "Exports",
+      "Canada"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Imports",
+        "value": NaN
+      },
+      {
+        "entity": "Total World",
+        "value": 69438.04067224289
+      },
+      {
+        "entity": "Exports",
+        "value": NaN
+      },
+      {
+        "entity": "Total World",
+        "value": 69438.04067224289
+      },
+      {
+        "entity": "Rest of World",
+        "value": 24704.549762317703
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Oil - Inter-area movements",
+    "rows": 55,
+    "cols": 17,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Oil - Trade movements in 23-24",
+    "rows": 56,
+    "cols": 9,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Gas - Proved reserves",
+    "rows": 95,
+    "cols": 8,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Gas - Proved reserves history",
+    "rows": 96,
+    "cols": 45,
+    "header_row_index": 4,
+    "year_count": 41,
+    "first_year": 1980,
+    "last_year": 2020,
+    "entity_row_count": 82,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Trinidad & Tobago"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 188.07422608745472
+      },
+      {
+        "entity": "Russian Federation",
+        "value": 37.391524354530056
+      },
+      {
+        "entity": "USSR",
+        "value": NaN
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 167.79453220375
+      },
+      {
+        "entity": "Total Middle East",
+        "value": 75.80692082396591
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas Production - Bcm",
+    "rows": 89,
+    "cols": 59,
+    "header_row_index": 2,
+    "year_count": 55,
+    "first_year": 1970,
+    "last_year": 2024,
+    "entity_row_count": 76,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Trinidad & Tobago"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 4124.451625825785
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 2502.6452273649056
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1621.8063984608796
+      },
+      {
+        "entity": "Total North America",
+        "value": 1262.927405262908
+      },
+      {
+        "entity": "US",
+        "value": 1033.0043940083526
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas Production - bcf",
+    "rows": 88,
+    "cols": 59,
+    "header_row_index": 2,
+    "year_count": 55,
+    "first_year": 1970,
+    "last_year": 2024,
+    "entity_row_count": 76,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Trinidad & Tobago"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 397.9607022947551
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 241.47560515450292
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 156.48509714025215
+      },
+      {
+        "entity": "Total North America",
+        "value": 121.85752743435108
+      },
+      {
+        "entity": "US",
+        "value": 99.67268170609798
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas Production - EJ",
+    "rows": 87,
+    "cols": 59,
+    "header_row_index": 2,
+    "year_count": 55,
+    "first_year": 1970,
+    "last_year": 2024,
+    "entity_row_count": 74,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Trinidad & Tobago"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 148.48025959161168
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 90.09522795119847
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 58.38503164041322
+      },
+      {
+        "entity": "Total North America",
+        "value": 45.46538829803467
+      },
+      {
+        "entity": "US",
+        "value": 37.18815994262695
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas Consumption - Bcm",
+    "rows": 127,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 114,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 4127.827067502332
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 2343.9541245637533
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1783.8729429385778
+      },
+      {
+        "entity": "Total North America",
+        "value": 1130.9891302836259
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 972.6523457985247
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas Consumption - Bcf",
+    "rows": 125,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 113,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 398.2863924135922
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 226.1637944102002
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 172.12259800339197
+      },
+      {
+        "entity": "Total North America",
+        "value": 109.12704752241832
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 93.84942429652627
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas Consumption - EJ",
+    "rows": 125,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 112,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 148.6017727008002
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 84.38234740625194
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 64.21942529454827
+      },
+      {
+        "entity": "Total North America",
+        "value": 40.71560788154602
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 35.01548423944041
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas - H2 Production Capacity",
+    "rows": 57,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 43,
+    "sample_entities": [
+      "North America",
+      "Blue",
+      "Green",
+      "Total North America",
+      "S. & Cent. America",
+      "Blue",
+      "Green",
+      "Total S. & Cent. America",
+      "Europe",
+      "Blue"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "North America",
+        "value": NaN
+      },
+      {
+        "entity": "Total North America",
+        "value": 2462.665749
+      },
+      {
+        "entity": "S. & Cent. America",
+        "value": NaN
+      },
+      {
+        "entity": "Europe",
+        "value": NaN
+      },
+      {
+        "entity": "CIS",
+        "value": NaN
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas Prices ",
+    "rows": 56,
+    "cols": 19,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Gas - Trade movements",
+    "rows": 115,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 110,
+    "sample_entities": [
+      "US",
+      "Pipeline imports",
+      "LNG imports",
+      "Total imports",
+      "Pipeline exports",
+      "LNG exports*",
+      "Total exports",
+      "Other North America",
+      "Pipeline imports",
+      "LNG imports"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "US",
+        "value": NaN
+      },
+      {
+        "entity": "Total exports",
+        "value": 206.23788026354183
+      },
+      {
+        "entity": "Other North America",
+        "value": NaN
+      },
+      {
+        "entity": "Brazil",
+        "value": NaN
+      },
+      {
+        "entity": "Other S&C America",
+        "value": NaN
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas - LNG imports bcm",
+    "rows": 44,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 40,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Belgium"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 544.1164184795321
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 375.4732289553738
+      },
+      {
+        "entity": "Total Europe",
+        "value": 133.52162588089956
+      },
+      {
+        "entity": "China",
+        "value": 105.1885969641741
+      },
+      {
+        "entity": "Japan",
+        "value": 88.963372025
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas - LNG exports bcm",
+    "rows": 38,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 34,
+    "sample_entities": [
+      "US",
+      "Peru",
+      "Trinidad & Tobago",
+      "Other Americas*",
+      "Total Americas",
+      "Russian Federation",
+      "Norway",
+      "Other Europe*",
+      "Total Europe & CIS",
+      "Oman"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total LNG exports",
+        "value": 544.1164184795322
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 178.2165072372436
+      },
+      {
+        "entity": "Total Middle East",
+        "value": 131.4585124543469
+      },
+      {
+        "entity": "Total Americas",
+        "value": 130.55706514210817
+      },
+      {
+        "entity": "US",
+        "value": 115.19612062293113
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas trade 2024 - LNG",
+    "rows": 43,
+    "cols": 24,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Gas trade 2024 - pipeline",
+    "rows": 37,
+    "cols": 23,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Coal - Reserves",
+    "rows": 76,
+    "cols": 7,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Coal Production - mt",
+    "rows": 70,
+    "cols": 48,
+    "header_row_index": 2,
+    "year_count": 44,
+    "first_year": 1981,
+    "last_year": 2024,
+    "entity_row_count": 57,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Brazil",
+      "Colombia",
+      "Venezuela",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Bulgaria"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 9241.507281521403
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 7894.556284195925
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 7417.092126322614
+      },
+      {
+        "entity": "China",
+        "value": 4780.0
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1346.9509973254765
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Coal Production - EJ",
+    "rows": 70,
+    "cols": 48,
+    "header_row_index": 2,
+    "year_count": 44,
+    "first_year": 1981,
+    "last_year": 2024,
+    "entity_row_count": 57,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Brazil",
+      "Colombia",
+      "Venezuela",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Bulgaria"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 182.22597647216753
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 153.40361148999364
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 146.38886741096212
+      },
+      {
+        "entity": "China",
+        "value": 94.48208618164062
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 28.822364982173895
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Coal Consumption - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 165.06194323611277
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 140.6602840228207
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 137.6276450403966
+      },
+      {
+        "entity": "China",
+        "value": 92.15750122070312
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 24.401659213292078
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Coal & Uranium - Prices",
+    "rows": 53,
+    "cols": 10,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Coal - Trade movements",
+    "rows": 39,
+    "cols": 29,
+    "header_row_index": 2,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 35,
+    "sample_entities": [
+      "Imports",
+      "Canada",
+      "Mexico",
+      "US",
+      "S. & Cent. America",
+      "Europe",
+      "CIS",
+      "Middle East",
+      "Africa",
+      "China"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Imports",
+        "value": NaN
+      },
+      {
+        "entity": "Total World",
+        "value": 35.99359895143211
+      },
+      {
+        "entity": "Exports",
+        "value": NaN
+      },
+      {
+        "entity": "Total World",
+        "value": 35.99359895143211
+      },
+      {
+        "entity": "China",
+        "value": 11.61644160218221
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Coal trade movements 2024",
+    "rows": 22,
+    "cols": 15,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Nuclear Generation - TWh",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 109,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 2817.452320594309
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1881.010534451795
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 936.4417861425144
+      },
+      {
+        "entity": "Total North America",
+        "value": 920.9104922010796
+      },
+      {
+        "entity": "US",
+        "value": 823.1362336842104
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Nuclear Consumption - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 110,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 30.735843497392462
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 20.520114921292308
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 10.215728576100155
+      },
+      {
+        "entity": "Total North America",
+        "value": 10.046296278557232
+      },
+      {
+        "entity": "US",
+        "value": 8.97966800382775
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Hydro Generation - TWh",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 109,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 4452.908891420621
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 3013.851341233742
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 1952.5987467532102
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1439.057550186883
+      },
+      {
+        "entity": "China",
+        "value": 1354.2542700000001
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Hydro Consumption - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 16.03047200911425
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 10.849864828441472
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 7.029355488311558
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 5.180607180672778
+      },
+      {
+        "entity": "China",
+        "value": 4.875315372000001
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Renewables Consumption -EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 48.76567255498418
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 27.335635248944065
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 21.86158448757194
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 21.430037306040155
+      },
+      {
+        "entity": "China",
+        "value": 13.89880516319096
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Renewable Power (inc hydro) -EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 43.84491068592833
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 25.29734685725427
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 20.893571103624517
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 18.547563828674072
+      },
+      {
+        "entity": "China",
+        "value": 13.764783324369562
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Ren power (excl hydro) - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 27.814438676814085
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 14.447482028812797
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 13.864215615312958
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 13.366956648001294
+      },
+      {
+        "entity": "China",
+        "value": 8.88946795236956
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Renewable Power (inc hydro)-TWh",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 109,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 9868.107092088634
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 5937.78869670645
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 4723.728086213515
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 3930.3183953821836
+      },
+      {
+        "entity": "China",
+        "value": 3398.830506164384
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Ren power (excl hydro) - TWh",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 109,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 5415.198200668012
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 2923.937355472707
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 2771.129339460305
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 2491.2608451953006
+      },
+      {
+        "entity": "China",
+        "value": 2044.5762361643838
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Renewables Generation by Source",
+    "rows": 120,
+    "cols": 16,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Solar Generation - TWh",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 109,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 2111.733332560801
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 1220.3040802560972
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 1213.6372135279416
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 898.0961190328597
+      },
+      {
+        "entity": "China",
+        "value": 839.04
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Solar Consumption - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 7.717720673937436
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 4.397427195686656
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 4.396394901109592
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 3.320293478250778
+      },
+      {
+        "entity": "China",
+        "value": 3.020695814088115
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Solar Installed Capacity",
+    "rows": 83,
+    "cols": 29,
+    "header_row_index": 3,
+    "year_count": 25,
+    "first_year": 2000,
+    "last_year": 2024,
+    "entity_row_count": 71,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Honduras",
+      "The Dominican Republic",
+      "Other S. & Cent. America"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 1865489.9540000004
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 1192467.5990000002
+      },
+      {
+        "entity": "China",
+        "value": 887929.8
+      },
+      {
+        "entity": "Total Europe",
+        "value": 358128.11100000003
+      },
+      {
+        "entity": "Total North America",
+        "value": 195567.82
+      }
+    ],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Wind Generation - TWh",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 109,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 2511.030708875595
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 1308.1718131729365
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1202.8588957026577
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 1163.3835850667297
+      },
+      {
+        "entity": "China",
+        "value": 997.0400000000001
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Wind Consumption - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 9.039710551952146
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 4.709418527422574
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 4.330292024529569
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 4.188180906240227
+      },
+      {
+        "entity": "China",
+        "value": 3.589344
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Wind Installed Capacity",
+    "rows": 76,
+    "cols": 32,
+    "header_row_index": 3,
+    "year_count": 28,
+    "first_year": 1997,
+    "last_year": 2024,
+    "entity_row_count": 64,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Uruguay",
+      "Other S. & Cent. America"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 1134758.0239999997
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 610569.823
+      },
+      {
+        "entity": "China",
+        "value": 521745.71
+      },
+      {
+        "entity": "Total Europe",
+        "value": 283684.9709999999
+      },
+      {
+        "entity": "Total North America",
+        "value": 178846.299
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Wind and Solar Technology Types",
+    "rows": 86,
+    "cols": 15,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Geo Biomass Other - TWh",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 109,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 792.4341592316111
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 402.1283287718282
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 390.30583045978346
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 387.4416741374771
+      },
+      {
+        "entity": "Total Europe",
+        "value": 223.4914003854701
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Geo Biomass Other - EJ",
+    "rows": 124,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 111,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 11.057007450924496
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 5.716371145220945
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 5.34063630570355
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 5.279639807963122
+      },
+      {
+        "entity": "Total Europe",
+        "value": 3.021489440264576
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Biofuels production - kboed",
+    "rows": 87,
+    "cols": 39,
+    "header_row_index": 2,
+    "year_count": 35,
+    "first_year": 1990,
+    "last_year": 2024,
+    "entity_row_count": 72,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Austria"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 2289.734790086542
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1224.0447425961718
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 1065.6900474903698
+      },
+      {
+        "entity": "Biofuels production by fuel type",
+        "value": NaN
+      },
+      {
+        "entity": "Biogasoline",
+        "value": NaN
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Biofuels production - PJ",
+    "rows": 87,
+    "cols": 39,
+    "header_row_index": 2,
+    "year_count": 35,
+    "first_year": 1990,
+    "last_year": 2024,
+    "entity_row_count": 72,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Austria"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 5128.25618805972
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 2741.4594270297707
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 2386.7967610299484
+      },
+      {
+        "entity": "Biofuels production by fuel type",
+        "value": NaN
+      },
+      {
+        "entity": "Biogasoline",
+        "value": NaN
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Biofuels Consumption - kboed",
+    "rows": 88,
+    "cols": 39,
+    "header_row_index": 2,
+    "year_count": 35,
+    "first_year": 1990,
+    "last_year": 2024,
+    "entity_row_count": 72,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Austria"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 2183.2602478550534
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1287.0066472096487
+      },
+      {
+        "entity": "Total North America",
+        "value": 899.234809325621
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 896.2536006454061
+      },
+      {
+        "entity": "Biofuels consumption by fuel type",
+        "value": NaN
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Biofuels consumption - PJ",
+    "rows": 88,
+    "cols": 39,
+    "header_row_index": 2,
+    "year_count": 35,
+    "first_year": 1990,
+    "last_year": 2024,
+    "entity_row_count": 72,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Austria"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 4889.788077065599
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 2882.4734773660916
+      },
+      {
+        "entity": "Total North America",
+        "value": 2013.9915309879723
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 2007.3145996995097
+      },
+      {
+        "entity": "Biofuels consumption by fuel type",
+        "value": NaN
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Electricity Generation - TWh",
+    "rows": 119,
+    "cols": 44,
+    "header_row_index": 2,
+    "year_count": 40,
+    "first_year": 1985,
+    "last_year": 2024,
+    "entity_row_count": 106,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 31255.91438444392
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 19806.1840921096
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 16132.35111972445
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 11449.73029233431
+      },
+      {
+        "entity": "China",
+        "value": 10086.880000000001
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Elec generation by fuel",
+    "rows": 63,
+    "cols": 17,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Oil inputs - Elec generation ",
+    "rows": 65,
+    "cols": 44,
+    "header_row_index": 2,
+    "year_count": 40,
+    "first_year": 1985,
+    "last_year": 2024,
+    "entity_row_count": 52,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "France",
+      "Germany"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 694.6869783928956
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 553.517199640096
+      },
+      {
+        "entity": "Total Middle East",
+        "value": 324.4212362149595
+      },
+      {
+        "entity": "Saudi Arabia",
+        "value": 156.8444469486441
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 141.1697787527992
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Gas inputs - Elec generation",
+    "rows": 65,
+    "cols": 44,
+    "header_row_index": 2,
+    "year_count": 40,
+    "first_year": 1985,
+    "last_year": 2024,
+    "entity_row_count": 52,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "France",
+      "Germany"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 7001.219345804347
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 3532.2380938789015
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 3468.981251925446
+      },
+      {
+        "entity": "Total North America",
+        "value": 2335.884441998345
+      },
+      {
+        "entity": "US",
+        "value": 2005.2406559139783
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Coal inputs - Elec generation ",
+    "rows": 65,
+    "cols": 44,
+    "header_row_index": 2,
+    "year_count": 40,
+    "first_year": 1985,
+    "last_year": 2024,
+    "entity_row_count": 52,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "France",
+      "Germany"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 10613.247022143954
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 8805.620746737684
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 8776.034418102072
+      },
+      {
+        "entity": "China",
+        "value": 5827.603429425378
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 1807.6262754062705
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Other inputs - Elec generation",
+    "rows": 65,
+    "cols": 44,
+    "header_row_index": 2,
+    "year_count": 40,
+    "first_year": 1985,
+    "last_year": 2024,
+    "entity_row_count": 52,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "France",
+      "Germany"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 261.2016256406798
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 157.36721446236464
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 151.30241277549743
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 103.8344111783151
+      },
+      {
+        "entity": "Total Europe",
+        "value": 85.4911649058602
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Grid Scale BESS Capacity",
+    "rows": 42,
+    "cols": 16,
+    "header_row_index": 2,
+    "year_count": 12,
+    "first_year": 2013,
+    "last_year": 2024,
+    "entity_row_count": 30,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Chile",
+      "Other S. & Cent. America",
+      "Total S. & Cent. America",
+      "Germany",
+      "Ireland",
+      "United Kingdom"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 126.14013344085248
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 85.1938483260428
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 78.56893832902287
+      },
+      {
+        "entity": "China",
+        "value": 75.2033983314862
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 47.57119511182961
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Cobalt P-R",
+    "rows": 22,
+    "cols": 38,
+    "header_row_index": 2,
+    "year_count": 30,
+    "first_year": 1995,
+    "last_year": 2024,
+    "entity_row_count": 18,
+    "sample_entities": [
+      "Australia",
+      "Canada",
+      "China",
+      "DR Congo",
+      "Cuba",
+      "Madagascar",
+      "Morocco",
+      "New Caledonia",
+      "Papua New Guinea",
+      "Philippines"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 270.8159592890995
+      },
+      {
+        "entity": "DR Congo",
+        "value": 200.779
+      },
+      {
+        "entity": "Rest of World",
+        "value": 34.087
+      },
+      {
+        "entity": "Russian Federation",
+        "value": 8.7
+      },
+      {
+        "entity": "Canada",
+        "value": 4.5
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Lithium P-R",
+    "rows": 17,
+    "cols": 38,
+    "header_row_index": 2,
+    "year_count": 30,
+    "first_year": 1995,
+    "last_year": 2024,
+    "entity_row_count": 13,
+    "sample_entities": [
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Chile",
+      "China",
+      "Portugal",
+      "US",
+      "Zimbabwe",
+      "Rest of World",
+      "Total World"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 244.63680067818197
+      },
+      {
+        "entity": "Australia",
+        "value": 88.0
+      },
+      {
+        "entity": "Chile",
+        "value": 56.92843434782608
+      },
+      {
+        "entity": "China",
+        "value": 40.99999999999999
+      },
+      {
+        "entity": "Zimbabwe",
+        "value": 22.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Natural Graphite P-R",
+    "rows": 22,
+    "cols": 38,
+    "header_row_index": 2,
+    "year_count": 30,
+    "first_year": 1995,
+    "last_year": 2024,
+    "entity_row_count": 18,
+    "sample_entities": [
+      "Brazil1",
+      "Canada",
+      "China",
+      "India2",
+      "Madagascar",
+      "Mexico",
+      "Mozambique",
+      "Norway",
+      "Russian Federation",
+      "Sri Lanka"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 1728.3220000000001
+      },
+      {
+        "entity": "China",
+        "value": 1270.0
+      },
+      {
+        "entity": "India2",
+        "value": 116.37899999999999
+      },
+      {
+        "entity": "Madagascar",
+        "value": 89.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 71.068
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Rare Earth metals P-R",
+    "rows": 19,
+    "cols": 38,
+    "header_row_index": 2,
+    "year_count": 30,
+    "first_year": 1995,
+    "last_year": 2024,
+    "entity_row_count": 15,
+    "sample_entities": [
+      "Australia",
+      "Brazil",
+      "China",
+      "India",
+      "Madagascar",
+      "Russian Federation",
+      "Thailand",
+      "US",
+      "Rest of World",
+      "Total World"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 379.8499999999999
+      },
+      {
+        "entity": "China",
+        "value": 269.99999999999994
+      },
+      {
+        "entity": "US",
+        "value": 45.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 31.43
+      },
+      {
+        "entity": "Australia",
+        "value": 13.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Copper P-R",
+    "rows": 18,
+    "cols": 18,
+    "header_row_index": 2,
+    "year_count": 11,
+    "first_year": 2014,
+    "last_year": 2024,
+    "entity_row_count": 13,
+    "sample_entities": [
+      "Australia",
+      "Chile",
+      "China",
+      "Democratic Republic of Congo",
+      "Indonesia",
+      "Peru",
+      "US",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 22610.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 6610.0
+      },
+      {
+        "entity": "Chile",
+        "value": 5300.0
+      },
+      {
+        "entity": "Democratic Republic of Congo",
+        "value": 3300.0
+      },
+      {
+        "entity": "Peru",
+        "value": 2600.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Manganese P-R",
+    "rows": 16,
+    "cols": 18,
+    "header_row_index": 2,
+    "year_count": 11,
+    "first_year": 2014,
+    "last_year": 2024,
+    "entity_row_count": 12,
+    "sample_entities": [
+      "Australia",
+      "China",
+      "Gabon",
+      "Ghana",
+      "India",
+      "South Africa",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute",
+      "^ less than 0.05"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 21050.0
+      },
+      {
+        "entity": "South Africa",
+        "value": 7400.0
+      },
+      {
+        "entity": "Gabon",
+        "value": 4600.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 3860.0
+      },
+      {
+        "entity": "Australia",
+        "value": 2800.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Nickel P-R",
+    "rows": 18,
+    "cols": 19,
+    "header_row_index": 2,
+    "year_count": 12,
+    "first_year": 2013,
+    "last_year": 2024,
+    "entity_row_count": 13,
+    "sample_entities": [
+      "Australia",
+      "Canada",
+      "China",
+      "Indonesia",
+      "New Caledonia",
+      "Philippines",
+      "Russian Federation",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 3822.904
+      },
+      {
+        "entity": "Indonesia",
+        "value": 2200.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 552.904
+      },
+      {
+        "entity": "Philippines",
+        "value": 330.0
+      },
+      {
+        "entity": "Russian Federation",
+        "value": 210.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Zinc P-R",
+    "rows": 16,
+    "cols": 19,
+    "header_row_index": 2,
+    "year_count": 12,
+    "first_year": 2013,
+    "last_year": 2024,
+    "entity_row_count": 12,
+    "sample_entities": [
+      "Australia",
+      "China",
+      "India",
+      "Mexico",
+      "Peru",
+      "US",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute",
+      "^ less than 0.05"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 11960.0
+      },
+      {
+        "entity": "China",
+        "value": 4000.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 3250.0
+      },
+      {
+        "entity": "Peru",
+        "value": 1300.0
+      },
+      {
+        "entity": "Australia",
+        "value": 1100.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Platinum Group Metals P-R",
+    "rows": 16,
+    "cols": 18,
+    "header_row_index": 2,
+    "year_count": 11,
+    "first_year": 2014,
+    "last_year": 2024,
+    "entity_row_count": 12,
+    "sample_entities": [
+      "Canada",
+      "Russia",
+      "South Africa",
+      "United States",
+      "Zimbabwe",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute",
+      "*Platinum and Palladium",
+      "^ less than 0.05"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 358.0
+      },
+      {
+        "entity": "South Africa",
+        "value": 192.0
+      },
+      {
+        "entity": "Russia",
+        "value": 93.0
+      },
+      {
+        "entity": "Zimbabwe",
+        "value": 34.0
+      },
+      {
+        "entity": "Canada",
+        "value": 20.2
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Bauxite P-R",
+    "rows": 18,
+    "cols": 18,
+    "header_row_index": 2,
+    "year_count": 11,
+    "first_year": 2014,
+    "last_year": 2024,
+    "entity_row_count": 14,
+    "sample_entities": [
+      "Australia",
+      "Brazil",
+      "China",
+      "Guinea",
+      "India",
+      "Indonesia",
+      "Vietnam",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 450485.0
+      },
+      {
+        "entity": "Guinea",
+        "value": 130000.0
+      },
+      {
+        "entity": "Australia",
+        "value": 100000.0
+      },
+      {
+        "entity": "China",
+        "value": 93000.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 33285.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Aluminium P-R",
+    "rows": 15,
+    "cols": 17,
+    "header_row_index": 2,
+    "year_count": 11,
+    "first_year": 2014,
+    "last_year": 2024,
+    "entity_row_count": 11,
+    "sample_entities": [
+      "Australia",
+      "Canada",
+      "China",
+      "India",
+      "Russian Federation",
+      "United Arab Emirates",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute",
+      "^ less than 0.05"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 71620.0
+      },
+      {
+        "entity": "China",
+        "value": 43000.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 13120.0
+      },
+      {
+        "entity": "India",
+        "value": 4200.0
+      },
+      {
+        "entity": "Russian Federation",
+        "value": 3800.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Tin P-R",
+    "rows": 18,
+    "cols": 18,
+    "header_row_index": 2,
+    "year_count": 11,
+    "first_year": 2014,
+    "last_year": 2024,
+    "entity_row_count": 14,
+    "sample_entities": [
+      "Australia",
+      "Bolivia",
+      "Brazil",
+      "Burma",
+      "China",
+      "Democratic Republic of Congo",
+      "Indonesia",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 295.5
+      },
+      {
+        "entity": "China",
+        "value": 69.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": 57.6
+      },
+      {
+        "entity": "Indonesia",
+        "value": 50.0
+      },
+      {
+        "entity": "Burma",
+        "value": 34.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Vanadium P-R",
+    "rows": 16,
+    "cols": 18,
+    "header_row_index": 2,
+    "year_count": 11,
+    "first_year": 2014,
+    "last_year": 2024,
+    "entity_row_count": 12,
+    "sample_entities": [
+      "Australia",
+      "Brazil",
+      "China",
+      "Russia",
+      "South Africa",
+      "Rest of World",
+      "Total World",
+      "Sources: includes data from US Geological Survey and Kearney Energy Transition Institute",
+      "^ less than 0.05",
+      "♦ less than 0.05%"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "China",
+        "value": 70.0
+      },
+      {
+        "entity": "Russia",
+        "value": 21.0
+      },
+      {
+        "entity": "South Africa",
+        "value": 8.0
+      },
+      {
+        "entity": "Rest of World",
+        "value": NaN
+      },
+      {
+        "entity": "Total World",
+        "value": 104.0
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "Mineral Commodity Prices",
+    "rows": 41,
+    "cols": 13,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Primary Energy Cons (old meth)",
+    "rows": 122,
+    "cols": 64,
+    "header_row_index": 2,
+    "year_count": 60,
+    "first_year": 1965,
+    "last_year": 2024,
+    "entity_row_count": 110,
+    "sample_entities": [
+      "Canada",
+      "Mexico",
+      "US",
+      "Total North America",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Peru"
+    ],
+    "top_entities_latest_year": [
+      {
+        "entity": "Total World",
+        "value": 636.2535628094889
+      },
+      {
+        "entity": "Non-OECD",
+        "value": 403.3697874740051
+      },
+      {
+        "entity": "Total Asia Pacific",
+        "value": 301.49329360796474
+      },
+      {
+        "entity": "of which: OECD",
+        "value": 232.88377533548373
+      },
+      {
+        "entity": "China",
+        "value": 176.35355576314032
+      }
+    ],
+    "has_growth_info": true,
+    "has_share_info": true
+  },
+  {
+    "sheet_name": "PE Cons by fuel (old meth) ",
+    "rows": 98,
+    "cols": 16,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Approximate conversion factors",
+    "rows": 57,
+    "cols": 12,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  },
+  {
+    "sheet_name": "Definitions",
+    "rows": 70,
+    "cols": 12,
+    "header_row_index": null,
+    "year_count": 0,
+    "first_year": null,
+    "last_year": null,
+    "entity_row_count": 0,
+    "sample_entities": [],
+    "top_entities_latest_year": [],
+    "has_growth_info": false,
+    "has_share_info": false
+  }
+]
