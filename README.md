@@ -2,6 +2,8 @@
 
 Project for "Data visualization analysis", buaa, 2026.4.
 
+https://wnymin.github.io/visualization-display-Statistical-Review-of-World-Energy/
+
 ## Frontend
 
 - Vue project folder: `webapp-vue`
